@@ -55,7 +55,7 @@ During installation, enable the following workload:
 
 
 .NET Desktop Development
---text
+```text
 Application Workflow
 ┌──────────────────────────┐
 │     YouTube Video URL    │
