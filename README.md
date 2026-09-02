@@ -53,7 +53,7 @@ Install:
 
 During installation, enable the following workload:
 
-```text
+
 .NET Desktop Development
 Application Workflow
 ┌──────────────────────────┐
