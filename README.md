@@ -1,7 +1,4 @@
 # YouTubeDownload-Tools
-C# WinForms YouTube downloader with quality selection, YoutubeExplode integration, and FFmpeg-based audio/video merging for HD and 1080p+ downloads.
-
-# YouTubeDownload-Tools
 
 A lightweight **YouTube video downloader for Windows** built with **C#**, **.NET 8**, and **Windows Forms**.
 
