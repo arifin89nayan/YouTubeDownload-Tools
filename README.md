@@ -35,7 +35,7 @@ The project is designed as a simple desktop utility with an easy-to-use graphica
 | C# | Main programming language |
 | .NET 8 | Application framework |
 | Windows Forms | Desktop graphical user interface |
-| YoutubeExplode | YouTube metadata and stream extraction |
+| YouTubeExplode | YouTube metadata and stream extraction |
 | FFmpeg | Audio and video merging |
 | Visual Studio 2022 | Development environment |
 
@@ -55,6 +55,7 @@ During installation, enable the following workload:
 
 
 .NET Desktop Development
+--text
 Application Workflow
 ┌──────────────────────────┐
 │     YouTube Video URL    │
